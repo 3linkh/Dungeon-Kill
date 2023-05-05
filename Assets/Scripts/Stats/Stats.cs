@@ -1,0 +1,5 @@
+    enum Stats
+    {
+        Health,
+        ExperienceReward
+    }
